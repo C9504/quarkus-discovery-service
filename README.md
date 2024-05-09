@@ -1,4 +1,4 @@
-# service-discovery
+# quarkus-service-discovery
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
